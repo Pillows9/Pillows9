@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pillows9
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Program Coding (PYTHON , JS , C)
+- 🌱 I’m currently learning Program Coding (PHP, PYTHON , JS , C)
 - 😄 Pronouns: Pillows
 
 <!---
